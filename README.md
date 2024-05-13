@@ -8,18 +8,13 @@ Sparkle
 <a href="https://github.com/zanjie1999"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=zanjie1999&show_icons=true&line_height=28&show_icons=true&count_private=true&hide_border=true&title_color=fb83a5&icon_color=fb83a5"></a>
 <a href="https://github.com/zanjie1999"><img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanjie1999&show_icons=true&layout=compact&theme=vue&hide_border=true&langs_count=10&title_color=fb83a5&hide=c,objective-c,makefile,assembly,roff,perl"></a>
 
-#### 其他的常用头像  
+#### 常用头像 Commonly used avatars  
 <div style="width: 610px;">
 
 <a href="https://github.com/zanjie1999"><img alt="" src="https://github.com/zanjie1999/zanjie1999/assets/16502567/3ebd635f-f1d0-45fa-ac72-e5fe8873d7a5" width="128"></a>
 <a href="https://github.com/zanjie1999"><img alt="" src="https://github.com/zanjie1999/zanjie1999/assets/16502567/71976f0d-24e8-464a-a31e-887f75f609eb" width="128"></a>
 <a href="https://github.com/zanjie1999"><img alt="" src="https://github.com/zanjie1999/zanjie1999/assets/16502567/4499264f-8b15-4c13-8b43-447be2af0779" width="128"></a>
-<a href="https://github.com/zanjie1999"><img alt="" src="https://github.com/zanjie1999/zanjie1999/assets/16502567/0b033acf-64f5-4030-8b31-bef52dab0551" width="128"></a>
-<br>
-<a href="https://github.com/zanjie1999"><img alt="" src="https://github.com/zanjie1999/zanjie1999/assets/16502567/91f438bc-135d-48d9-8777-4a20c754cee3" width="128"></a>
-<a href="https://github.com/zanjie1999"><img alt="" src="https://github.com/zanjie1999/zanjie1999/assets/16502567/87f1c291-3aaf-4b1b-b8fa-683e48086c7c" width="128"></a>
-<a href="https://github.com/zanjie1999"><img alt="" src="https://github.com/zanjie1999/zanjie1999/assets/16502567/c81ebcd8-34ce-443c-8514-6117042f1334" width="128"></a>
-<a href="https://github.com/zanjie1999"><img alt="" src="https://github.com/zanjie1999/zanjie1999/assets/16502567/3c3a2864-9944-42c2-856c-83d0b39dd338" width="128"></a>
+<a href="https://github.com/zanjie1999"><img alt="" src="https://thirdqq.qlogo.cn/g?b=sdk&k=SRUbQ2agh6IQfuLLILib3TQ&s=640" width="128"></a>
 </div>
 如果你也是用头像来认人的话
 
