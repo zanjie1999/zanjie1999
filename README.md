@@ -14,7 +14,6 @@ Sparkle
 <a href="https://github.com/zanjie1999"><img alt="" src="https://github.com/zanjie1999/zanjie1999/assets/16502567/3ebd635f-f1d0-45fa-ac72-e5fe8873d7a5" width="128"></a>
 <a href="https://github.com/zanjie1999"><img alt="" src="https://github.com/zanjie1999/zanjie1999/assets/16502567/71976f0d-24e8-464a-a31e-887f75f609eb" width="128"></a>
 <a href="https://github.com/zanjie1999"><img alt="" src="https://github.com/zanjie1999/zanjie1999/assets/16502567/4499264f-8b15-4c13-8b43-447be2af0779" width="128"></a>
-<a href="https://github.com/zanjie1999"><img alt="" src="https://thirdqq.qlogo.cn/g?b=sdk&k=SRUbQ2agh6IQfuLLILib3TQ&s=640" width="128"></a>
 </div>
 如果你也是用头像来认人的话
 
