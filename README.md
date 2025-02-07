@@ -18,4 +18,4 @@ Sparkle
 如果你也是用头像来认人的话
 
 [在这里创建Issuse向咩咩提问 Contact me here](https://github.com/zanjie1999/zanjie1999/issues)  
-是看github比看邮箱多的人，zyyme#pm.me
+是看github比看邮箱多的人，或者B站私信
