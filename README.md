@@ -19,3 +19,6 @@ Sparkle
 
 [在这里创建Issuse向咩咩提问 Contact me here](https://github.com/zanjie1999/zanjie1999/issues)  
 是看github比看邮箱多的人，或者B站私信
+
+使用此用户下项目视为您已阅读并同意遵守 [此LICENSE](https://github.com/zanjie1999/LICENSE)   
+Using this user's project is deemed to indicate that you have read and agreed to abide by [this LICENSE](https://github.com/zanjie1999/LICENSE)
